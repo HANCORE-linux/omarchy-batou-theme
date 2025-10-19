@@ -1,1 +1,31 @@
-# omarchy-batou-theme
+# Batou
+A primary male character in the Ghost in the Shell franchise, the second best melee fighter in Section 9, and second in command behind Major Motoko Kusanagi. Theme is for https://omarchy.org/. 
+
+# Screenshots
+
+
+
+# Installation Theme
+
+To install this theme, simply use the omarchy-theme-install command:
+
+```bash
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-batou-theme.git
+```
+## Vesktop-Theme
+For Vesktop users, you can install this theme by copying the theme file to your Vesktop themes directory:
+```bash
+cp vencord.theme.css ~/.config/vesktop/themes/vencord.theme.css
+```
+
+## Neovim-Theme
+- by aether 
+
+## VSCode-Theme
+- not supported yet
+
+## Waybar-Theme
+For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+
+### License
+MIT
