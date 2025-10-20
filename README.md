@@ -3,6 +3,8 @@ A primary male character in the Ghost in the Shell franchise, the second best me
 - Theme created with aether https://github.com/bjarneo/aether <br>
 
 # Screenshots
+<img width="2561" height="1440" alt="screenshot-2025-10-20_06-30-14" src="https://github.com/user-attachments/assets/1db2ac7a-f021-4237-888a-5db683ae137f" />
+
 
 
 
