@@ -18,7 +18,7 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-batou-theme.git
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying the theme file to your Vesktop themes directory:
 ```bash
-cp vencord.theme.css ~/.config/vesktop/themes/vencord.theme.css
+cp vvencord.batou.theme.css ~/.config/vesktop/themes/vencord.batou.theme.css
 ```
 
 ## Neovim-Theme
