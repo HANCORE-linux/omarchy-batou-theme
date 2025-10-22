@@ -1,6 +1,9 @@
 # Batou
-A primary male character in the Ghost in the Shell franchise, the second best melee fighter in Section 9, and second in command behind Major Motoko Kusanagi. Theme is for https://omarchy.org/. 
-- Theme created with aether https://github.com/bjarneo/aether <br>
+A dark, moody theme inspired by Batou’s car and the opening scene of Ghost in the Shell.
+Muted greys and cold blues echo the cyberpunk tone and tactical precision of Section 9.
+Designed for omarchy.org with a focus on clarity, depth, and minimal distraction.
+
+Theme created with aether https://github.com/bjarneo/aether <br>
 
 # Screenshots
 <img width="1921" height="1081" alt="screenshot-2025-10-20_08-31-56" src="https://github.com/user-attachments/assets/7cd0626a-b6b1-49a2-9478-f0bc12b99fde" />
