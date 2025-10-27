@@ -6,13 +6,13 @@
 @define-color background #121212;
 
 
-@define-color hover #121212;
+@define-color hover #bcb9b2;
 @define-color accent #a5a297;
 
 
 window .search-container,
 window .search {
-  background: alpha(@hover, 0.3);
+  background: alpha(@hover, 0.1);
   color: @foreground;
   border: 1px solid alpha(@border, 0.5);
   border-radius: 12px;
@@ -21,3 +21,4 @@ window .search {
   font-size: 14px;
   font-weight: 500;
 }
+
