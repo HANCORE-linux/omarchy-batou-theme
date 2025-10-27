@@ -10,7 +10,7 @@ return {
 				base00 = "#121212", -- Default background
 				base01 = "#383735", -- Lighter background (status bars)
 				base02 = "#121212", -- Selection background
-				base03 = "#383735", -- Comments, invisibles
+				base03 = "#a5a297", -- Comments, invisibles
 				base04 = "#dbd9d3", -- Dark foreground
 				base05 = "#bcb9b2", -- Default foreground
 				base06 = "#a4a4a4", -- Light foreground
