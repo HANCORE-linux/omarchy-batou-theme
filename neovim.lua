@@ -10,7 +10,7 @@ return {
 				base00 = "#121212", -- Default background
 				base01 = "#383735", -- Lighter background (status bars)
 				base02 = "#121212", -- Selection background
-				base03 = "#a5a297", -- Comments, invisibles
+				base03 = "#595c68", -- Comments, invisibles
 				base04 = "#dbd9d3", -- Dark foreground
 				base05 = "#bcb9b2", -- Default foreground
 				base06 = "#a4a4a4", -- Light foreground
@@ -21,7 +21,7 @@ return {
 				base09 = "#984b1e", -- Integers, constants, orange
 				base0A = "#c6c4b0", -- Classes, types, yellow
 				base0B = "#a5a297", -- Strings, green
-				base0C = "#C2BBB0", -- Support, regex, cyan
+				base0C = "#e1d574", -- Support, regex, cyan
 				base0D = "#605d5b", -- Functions, keywords, blue
 				base0E = "#8a8575", -- Keywords, storage, magenta
 				base0F = "#8f4445", -- Deprecated, brown/yellow
