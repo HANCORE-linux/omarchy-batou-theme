@@ -22,3 +22,7 @@ window .search {
   font-weight: 500;
 }
 
+window .search-container text { 
+    color: @selected-text;
+    caret-color: @selected-text;
+}
