@@ -28,12 +28,6 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 cp vencord.batou.theme.css ~/.config/vesktop/themes/vencord.batou.theme.css
 ```
 
-## Neovim-Theme
-- by aether 
-
-## VSCode-Theme
-- not supported yet
-
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
