@@ -1,0 +1,22 @@
+{
+  "name": "theme-batou",
+  "displayName": "Batou Theme",
+  "description": "Batou color theme",
+  "publisher": "local",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Batou",
+        "uiTheme": "vs-dark",
+        "path": "./themes/batou-color-theme.json"
+      }
+    ]
+  }
+}
